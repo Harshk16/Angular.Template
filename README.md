@@ -1,1 +1,1 @@
-# Angular.Template
+# Angular Boilerplate Template
